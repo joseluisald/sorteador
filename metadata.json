@@ -1,0 +1,6 @@
+{
+  "name": "Pelada Certa",
+  "description": "Sorteador de times equilibrados para pelada e treino: cole a lista do WhatsApp, avalie habilidades de 1 a 10, marque goleiros e divida os times automaticamente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
